@@ -1,25 +1,3 @@
-/**************************************************************
- *                                                            *
- *                      Hypno-Antology                        *
- *                                                            *
- *                            by                              *
- *                                                            *
- *                       Jesej d.o.o.                         *
- *                                                            *
- *                                                            *
- *   This is  a copy righted software.  Any reproduction or   *
- *   any  other  way  of usage  is  strictly  prohibited by   *
- *   European copy right law and patent marks ....            *
- *                                                            *
- *   File:        php_hypx.h                                  *
- *                                                            *
- *   Description: the main hypx php extension header file.    *
- *                                                            *
- *   Authors:     Kajetan Dolinar, Janez-Tomaz Krmelj         *
- *                                                            *
- **************************************************************/
-
-
 #ifndef PHP_HYPX_H
 #define PHP_HYPX_H 1
 
